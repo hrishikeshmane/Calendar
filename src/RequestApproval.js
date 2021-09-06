@@ -14,8 +14,14 @@ function RequestApproval(appts) {
                     <button className="reject__button">Reject</button>
                 </div>
                 <div className="approval__list__element">
-                    <h4>Leslie Penarra</h4>
+                    <h4>Leslie Penar</h4>
                     <p>8.00 pm - 9.00 pm</p>
+                    <button className="accept__button">Accept</button>
+                    <button className="reject__button">Reject</button>
+                </div>
+                <div className="approval__list__element">
+                    <h4>Ralph Mccoy</h4>
+                    <p>4.30 pm - 6.30 pm</p>
                     <button className="accept__button">Accept</button>
                     <button className="reject__button">Reject</button>
                 </div>
